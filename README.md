@@ -3,6 +3,6 @@
 
 Credits:
 
-{Role: Owner, Scripter}Xilostef,
+{Role: Owner, Scripter}  Xilostef,
 
-{Role: Helper, GUI}developedbyed
+{Role: Helper, GUI}  developedbyed
