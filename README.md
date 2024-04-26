@@ -1,8 +1,8 @@
 # YouTube-Downloader
 **This application made with python. It will convert any YouTube link into a video, using pytube. This app has the new *Python GUI Generation*. Contact me if you want the source code.**
 
-Credits:
+# Credits:
 
-{Role: Owner, Scripter}  Xilostef,
+{Role: Owner, Scripter}  **Xilostef**,
 
-{Role: Helper, GUI}  developedbyed
+{Role: Helper, GUI}  **developedbyed**
